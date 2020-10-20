@@ -1,0 +1,25 @@
+body {
+    padding: 0;
+    margin: 0;
+    line-height: 150%;
+    background:ghostwhite;
+  }
+
+h1{
+    background-color: turquoise;
+    color: white;
+    font-size: xx-large;
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+h2{
+    color: turquoise;
+    font-size: xx-large;
+}
+
+h3{
+    color: turquoise;
+    font-size: xx-large;
+}
